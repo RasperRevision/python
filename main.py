@@ -22,3 +22,18 @@ print(fruits)
 # 5
 fruits.remove("banana")
 print(fruits)
+
+# 1
+# A function is a type of subprogram that returns an output, usually when given input parameters. It is useful to avoid repetition
+
+# 2
+def greet(name):
+    print(f'Hello, {name}')
+
+# 3
+def product(a, b):
+    return a * b
+
+# 4
+def is_even(n):
+    return n % 2 == 0
