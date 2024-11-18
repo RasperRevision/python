@@ -29,3 +29,9 @@ def evenorodd(number):
     return answer
 num4=int(input("number:"))
 print(evenorodd(num4))
+
+print("Hello","World")
+print("I hate ", "Python")
+firstName="John"
+surname="Doe"
+print(firstName,surname)
